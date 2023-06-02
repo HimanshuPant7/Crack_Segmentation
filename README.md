@@ -1,15 +1,15 @@
 # Crack_Segmentation
 This repository contains code for the segmentation of cracks present in concrete bodies.
 
-**Description**
+## **Description**
 The goal of this project is to develop a crack segmentation model for concrete structures. The segmentation model takes an input image of a crack in a concrete body and outputs a binary mask where cracks are identified. The code provided here consists of two main parts: Preprocessing of the image and Segmentation of the crack.
 
-**Preprocessing**
+### **Preprocessing**
 The preprocessing code is implemented in the file "Concise_postprocessing_code.ipynb". Follow the steps below to preprocess the data:
 1. Open the "Concise_postprocessing_code.ipynb" file in your Colab notebook.
 2. Run the steps from 0 to 3 to preprocess the data.
 
-**CNN Model**
+### **CNN Model**
 The CNN model for crack segmentation is implemented in the file "Deep_crack.ipynb". Follow the steps below to run the CNN model:
 1. Open the "Deep_crack.ipynb" file.
 2. Run the code in the notebook to predict the cracks.
@@ -17,7 +17,7 @@ The CNN model for crack segmentation is implemented in the file "Deep_crack.ipyn
 
 
 
-**Access to Files:**
+### **Access to Files:**
 Please note that some of the files required for running this code are stored in my Google Drive. Therefore, to reproduce this code successfully, you need to follow these steps to gain access:
 
 1. Contact me at [211032001@iitdh.ac.in] and provide your Google account email address.
